@@ -41,3 +41,24 @@ Getting data into BI through SQL dump and performing Data Visualization and anal
 
 Dashboard of Performance Tracking of sales for quick view:
 ![image](https://user-images.githubusercontent.com/106775145/209099717-295fd41e-fffc-4bdb-83ab-a50bbef24b86.png)
+
+
+📄 License
+© 2025 Md. Tanvir Ahmed — All Rights Reserved
+
+This repository is for educational and professional showcase purposes only.
+
+❌ No downloading
+
+❌ No copying
+
+❌ No modifying
+
+❌ No redistribution
+
+❌ No commercial use
+
+You may view the contents of this repository for reference purposes only.
+Any other use requires explicit written permission from Md. Tanvir Ahmed.
+
+
