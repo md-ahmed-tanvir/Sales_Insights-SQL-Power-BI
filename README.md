@@ -4,7 +4,7 @@ Project description,functions,queries written,environment used are mentioned in 
 
 ### Sales Data - Cleaning & Exploration
 Removing and adding columns as necessary in the tables and preparing the database tables for Analysis.
-Data subset collected in [SQL dump file](https://github.com/PranathiYarravalli20/Sales-Insights-using-Power-BI/blob/main/Database%20dump.sql) and loaded to SQL server for exploring the data tables.
+Data subset collected in [SQL dump file](https://github.com/md-ahmed-tanvir/Sales_Insights-SQL-Power-BI/blob/main/Sales_Insights-SQL-Power-BI/Database%20dump.sql) and loaded to SQL server for exploring the data tables.
 Tables:
 1. Customers
 2. Date
